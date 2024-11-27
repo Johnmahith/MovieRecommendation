@@ -1,6 +1,7 @@
+setuptools>=65.5.0
+wheel
 streamlit
 numpy==1.24.3
 pandas
 scikit-learn
-setuptools>=65.5.0
-scikit-surprise==1.1.1
+scikit-surprise
