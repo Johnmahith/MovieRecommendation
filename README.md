@@ -32,5 +32,3 @@ This project is an **End-to-End Movie Recommendation System** built using Python
   - `matplotlib`, `seaborn`: Visualization (optional).
 
 ---
-
-## 📂 Folder Structure
