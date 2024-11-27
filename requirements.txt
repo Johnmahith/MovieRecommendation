@@ -1,5 +1,0 @@
-scikit-surprise
-pandas
-numpy
-scikit-learn
-streamlit
